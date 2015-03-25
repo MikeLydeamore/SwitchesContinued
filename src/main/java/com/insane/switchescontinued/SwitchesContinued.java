@@ -49,9 +49,9 @@ public class SwitchesContinued {
 		if (enabled[0])
 			GameRegistry.addRecipe(new ShapedOreRecipe(new ItemStack(blockSwitch[0], 4), "abc", "bdb", 'a', "dyeRed", 'b', "ingotIron", 'c', "dyeGreen", 'd', Blocks.lever));
 		if (enabled[1])
-			GameRegistry.addRecipe(new ShapedOreRecipe(new ItemStack(blockSwitch[1], 4), "abc", "bdb", 'a', "dyeRed", 'b', "ingotIron", 'c', "dyeGreen", 'd', Blocks.lever));
+			GameRegistry.addRecipe(new ShapedOreRecipe(new ItemStack(blockSwitch[1], 4), "abc", "bdb", 'a', "dyeRed", 'b', "gemEmerald", 'c', "dyeGreen", 'd', Blocks.lever));
 		if (enabled[2])
-			GameRegistry.addRecipe(new ShapedOreRecipe(new ItemStack(blockSwitch[2], 4), "abc", "bdb", 'a', "dyeRed", 'b', "gemEmerald", 'c', "dyeGreen", 'd', Blocks.lever));
+			GameRegistry.addRecipe(new ShapedOreRecipe(new ItemStack(blockSwitch[2], 4), "abc", "bdb", 'a', "dyeRed", 'b', "ingotGold", 'c', "dyeGreen", 'd', Blocks.lever));
 	}
 	
 
