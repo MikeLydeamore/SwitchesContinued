@@ -1,0 +1,16 @@
+[
+{
+  "modid": "switchescontinued",
+  "name": "Switches Continued",
+  "description": "Convenient Switches - Originally by Myrathi",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Insaneau"],
+  "credits": "Myrathi",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
